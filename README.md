@@ -3,8 +3,8 @@
 Formal mathematical framework for the Consciousness Dynamical System (CDS).
 This repository contains the following preprints:
 
-**1. A Structural Derivation of the Consciousness Dynamical System (CDS)**
-**2. 意识系统的结构化推导**
+1. **A Structural Derivation of the Consciousness Dynamical System (CDS)**
+2. **意识系统的结构化推导**
 
 The paper proposes a formal mathematical framework in which consciousness is characterized as a derivable dynamical system under minimal structural postulates.
 
